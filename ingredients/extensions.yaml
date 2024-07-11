@@ -2,7 +2,7 @@ lists:
     # EXTENSIONS
     config  : [conf, confq, config]
     data    : [xml, json, yaml, yml]
-    backup  : [bak, backup, .backup1, backup2]
+    backup  : [~, 0, 1, 2, 2020, 2021, 2023, 2024, 2025, 3, 4, 5, 6, 7, 8, 9, back, backup, backup1, backup2, backupdb, bak, bak2, bak3, bash, bck, bckp, bdb, bk, bkup, copy, dict, log, new, old, orig, rej, sav, save, sh, swp, tmp, txt]
     exec    : [exe, msi, bin, command, sh, bat, crx]
     basic   : [php, js, html, jsp, aspx]
     web     : [html, html5, htm, js, jsx, jsp, wasm, php, php3, php5, php7]
